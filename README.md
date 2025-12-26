@@ -15,5 +15,3 @@ This project is an IoT-based fire alarm system designed to detect fire and alert
 ## How It Works
 The sensor monitors the environment continuously. When fire is detected, an alert is triggered.
 
-## Author
-Dhana Lakshmi Nayudu
